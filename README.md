@@ -19,13 +19,13 @@ Assuming that **Covid+ image** introduced the image texture modifications that a
 
 # 5.Sample output
 Prediction Duration: 0:00:00.085254
-<span style="color:blue">*
+<font style="color:blue">*
 LogisticRegression Model accuracy is:  0.84
-Tree Model accuracy is:  0.91
-KNN Model accuracy is:  0.89
-LDA Model accuracy is:  0.86
-NBayes Model accuracy is:  0.91
-SVM Model accuracy is:  0.85
+Tree Model accuracy is:  0.91<br>
+KNN Model accuracy is:  0.89 <br>
+LDA Model accuracy is:  0.86 <br>
+NBayes Model accuracy is:  0.91 <br>
+SVM Model accuracy is:  0.85 <br>
 Random forest Model accuracy is:  0.91
 *
-</span>
+</font>
