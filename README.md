@@ -18,14 +18,11 @@ Assuming that **Covid+ image** introduced the image texture modifications that a
 # 4. LBP histogram is used as feature vector on classifiers(SVM, LDA, KNN, LR, DTree, NBayes)
 
 # 5.Sample output
-Prediction Duration: 0:00:00.085254
-<font style="color:blue">*
-LogisticRegression Model accuracy is:  0.84
-Tree Model accuracy is:  0.91<br>
-KNN Model accuracy is:  0.89 <br>
-LDA Model accuracy is:  0.86 <br>
-NBayes Model accuracy is:  0.91 <br>
-SVM Model accuracy is:  0.85 <br>
-Random forest Model accuracy is:  0.91
-*
-</font>
+Prediction Duration: 0:00:00.085254 <br>
+LogisticRegression Model accuracy is: ** 84% ** <br>
+Tree Model accuracy is: ** 91% ** <br>
+KNN Model accuracy is:  ** 89% **<br>
+LDA Model accuracy is:  ** 86% ** <br>
+NBayes Model accuracy is:  ** 91% ** <br>
+SVM Model accuracy is:  ** 85% ** <br>
+Random forest Model accuracy is:  ** 91% **
